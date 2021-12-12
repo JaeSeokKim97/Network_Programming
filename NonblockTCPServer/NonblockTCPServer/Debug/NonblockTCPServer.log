@@ -1,0 +1,3 @@
+﻿  NonblockTCPServer.cpp
+C:\Users\KJS\source\repos\git\NonblockTCPServer\NonblockTCPServer\NonblockTCPServer.cpp(110,13): warning C4102: 'SEND_AGAIN': 참조되지 않은 레이블입니다.
+  NonblockTCPServer.vcxproj -> C:\Users\KJS\source\repos\git\NonblockTCPServer\Debug\NonblockTCPServer.exe
